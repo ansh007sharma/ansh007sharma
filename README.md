@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h2 align="center"> <i> Github Stats </i> </h2>
 <br>
 <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=ansh007sharma&theme=black-ice" alt="Indominous1" />
+      <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=ansh007sharma&theme=react" alt="Indominous1" />
     </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=400align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ansh007sharma&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb" />
