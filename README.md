@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<hr>
+<h2 align="center"> <i> Github Stats </i> </h2>
+<br>
+<a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=ansh007sharma&theme=black-ice" alt="Indominous1" />
+    </a>
