@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Buliding Projects on Technical Stuff
 <!--- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about Outdoor Games and Activities.....
-- 📫 How to reach me: <a href="mailto: Ansh.cs.cs@gmail.com">Email</a>
+- 📫 How to reach me: <a href="mail to: Ansh.cs.cs@gmail.com">Email</a>
 - 😄 Pronouns: He/HIM
-- ⚡ Fun fact: I favorite sport is Volleyball🏐....
+- ⚡ Fun fact: My favorite sport is Volleyball🏐 and Badminton....
 
 <hr>
 <h2 align="center"> <i> Github Stats </i> </h2>
